@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Curriculum vitae of Dr. Md. Masud Rana. Click on the PDF.",
+          description: "Brief Curriculum Vitae of Dr. Md. Masud Rana. Click the PDF icon for more details.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
