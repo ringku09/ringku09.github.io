@@ -11,15 +11,15 @@
   },
   "work": [
     {
-     "name": "Naif Arab University for Security Sciences, Riyadh, Saudi Arabia",
-     "position": "Research and Teaching Associate (Remote)",
-     "url": "https://nauss.edu.sa",
-     "startDate": "2024",
-     "endDate": "Present",
-     "summary": "Conducting research on DNA-based facial recognition, developing course materials for forensic genetics, and reviewing academic journals."
+      "name": "Naif Arab University for Security Sciences, Riyadh, Saudi Arabia",
+      "position": "Research and Teaching Associate (Remote)",
+      "url": "https://nauss.edu.sa",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Conducting research on DNA-based facial recognition, developing course materials for forensic genetics, and reviewing academic journals."
     },
     {
-      "name": "HEQEP sub-project (CP-3603, W2 and R3),Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh",
+      "name": "HEQEP Sub-project (CP-3603, W2 and R3), Department of Statistics, University of Rajshahi, Bangladesh",
       "position": "Research Assistant",
       "url": "https://www.ru.ac.bd/",
       "startDate": "2015",
@@ -92,7 +92,7 @@
         "Statistical Modeling",
         "Machine Learning",
         "Toxicogenomics",
-        "Multi-Omics"
+        "Multi-Omics",
         "DNA Phenotyping",
         "Forensic Identification"
       ]
