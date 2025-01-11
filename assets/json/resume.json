@@ -1,7 +1,7 @@
 {
   "personal_info": {
     "name": "Md. Masud Rana",
-    "address": "House #691, Natore road, Ghoramara-6100, Rajshahi, Bangladesh",
+    "address": "House #691, Natore Road, Ghoramara-6100, Rajshahi, Bangladesh",
     "mobile": "+880 1713846449",
     "email": "ringku_740@yahoo.com",
     "date_of_birth": "November 16, 1989",
@@ -17,13 +17,13 @@
     },
     {
       "degree": "MSc in Statistics",
-      "institution": "Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh",
+      "institution": "University of Rajshahi, Rajshahi, Bangladesh",
       "years": "2013-2014",
-      "grade": "3.750 (scale of 4)"
+      "grade": "3.75 (scale of 4)"
     },
     {
       "degree": "BSc in Statistics",
-      "institution": "Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh",
+      "institution": "University of Rajshahi, Rajshahi, Bangladesh",
       "years": "2008-2013",
       "grade": "3.401 (scale of 4)"
     }
@@ -32,53 +32,35 @@
     {
       "title": "PhD Fellow",
       "institution": "National Genomics Data Center, Beijing Institute of Genomics, CAS & CNCB, Beijing, China",
-      "supervisors": ["Prof. LIU Fan", "Prof. ZHANG Zhang"],
-      "years": "2017-2020",
-      "highlights": [
-        "Developed 'ToxAssay' for biomarker discovery in toxicogenomics.",
-        "Created 'ALVA' for prioritizing compound targets using gene expression data.",
-        "Designed RSEL for predicting liver toxicity using ensemble learning.",
-        "Integrated DNA phenotyping with computer vision for facial recognition."
-      ]
+      "supervisors": ["Prof. Liu Fan", "Prof. Zhang Zhang"],
+      "years": "2017-2020"
     },
     {
       "title": "Research Assistant",
-      "institution": "HEQEP sub-project, University of Rajshahi",
+      "institution": "University of Rajshahi",
       "supervisor": "Prof. Md. Nurul Haque Mollah",
-      "years": "2015-2017",
-      "highlights": [
-        "Developed a robust copula-based model for multi-phenotype GWAS analysis.",
-        "Analyzed microbiome data using over-dispersed and zero-inflated models.",
-        "Extended hierarchical naïve Bayes for three-level data classification."
-      ]
+      "years": "2015-2017"
     },
     {
       "title": "MSc Thesis Student",
       "institution": "Bioinformatics Lab, University of Rajshahi",
       "supervisor": "Prof. Md. Nurul Haque Mollah",
-      "years": "2013-2015",
-      "highlights": [
-        "Proposed a hierarchical nested ANOVA model for biomarker discovery.",
-        "Identified glutathione metabolism pathway genes responsible for oxidative stress."
-      ]
+      "years": "2013-2015"
     }
   ],
   "publications": [
     {
       "title": "ToxAssay: A hierarchical model-driven tool for advanced toxicogenomics biomarker discovery",
       "authors": "Rana MM, Mollah MNH, et al.",
-      "year": 2024,
       "status": "Under review",
       "journal": "Bioinformatics"
     },
     {
       "title": "Prioritizing compound targets by perturbed gene expression using ALVA",
       "authors": "Rana MM, Hasan MN, et al.",
-      "year": 2024,
       "status": "Submitted",
       "journal": "BMC Bioinformatics"
-    },
-    // Add other publications similarly
+    }
   ],
   "presentations": [
     {
@@ -88,18 +70,17 @@
       "location": "Chittagong Veterinary and Animal Sciences University, Bangladesh",
       "date": "February 2017"
     }
-    // Add others similarly
   ],
   "honors_awards": [
     "CAS-TWAS President’s Fellowship Programme for Doctoral Candidates, 2017",
     "Third Place in Poster Presentation Competition, International Conference on Biological Sciences, 2015"
   ],
   "software_packages": [
-    "ToxAssay (https://github.com/ringku09/toxassay)",
-    "ALVA (https://github.com/ringku09/alva)",
-    "WSML (https://github.com/ringku09/wsml)",
-    "HNB (https://github.com/ringku09/nbm)",
-    "RSEL (https://github.com/ringku09/rsel)"
+    "ToxAssay",
+    "ALVA",
+    "WSML",
+    "HNB",
+    "RSEL"
   ],
   "professional_training": [
     {
@@ -112,26 +93,23 @@
       "institution": "University of Rajshahi",
       "date": "June 2-5, 2016"
     }
-    // Add others similarly
   ],
   "references": [
     {
-      "name": "Dr. Fan Liu",
+      "name": "Dr. Liu Fan",
       "position": "Full Professor",
-      "email": "fliu@nauss.edu.sa",
-      "phone": "+966 545114868"
+      "email": "fliu@nauss.edu.sa"
     },
     {
       "name": "Dr. Zhang Zhang",
       "position": "Associate Director, National Genomics Data Center",
-      "email": "zhangzhang@big.ac.cn",
-      "phone": "+86 (10) 8409-7261"
+      "email": "zhangzhang@big.ac.cn"
     },
     {
       "name": "Dr. Md. Nurul Haque Mollah",
       "position": "Professor, Bioinformatics Lab, University of Rajshahi",
-      "email": "mollah.stat.bio@ru.ac.bd",
-      "phone": "+880-721-711275"
+      "email": "mollah.stat.bio@ru.ac.bd"
     }
   ]
 }
+
