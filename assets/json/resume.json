@@ -1,3 +1,4 @@
+
 {
   "basics": {
     "name": "Md. Masud Rana",
@@ -6,13 +7,13 @@
     "email": "ringku_740@yahoo.com",
     "phone": "+880 1713846449",
     "url": "https://github.com/ringku09",
-    "summary": "A bioinformatics researcher with expertise in toxicogenomics, statistical modeling, and machine learning applied to complex biological datasets.",
+    "summary": "A dedicated bioinformatics researcher specializing in toxicogenomics, statistical modeling, and biomarker discovery, with expertise in developing novel algorithms and software tools for data analysis.",
     "location": {
       "address": "House #691, Natore road, Ghoramara-6100",
-      "postalCode": "6205",
+      "postalCode": "",
       "city": "Rajshahi",
       "countryCode": "BD",
-      "region": "Rajshahi"
+      "region": "Bangladesh"
     },
     "profiles": [
       {
@@ -25,47 +26,40 @@
   "work": [
     {
       "name": "National Genomics Data Center, Beijing Institute of Genomics, CAS & CNCB",
-      "position": "PhD Fellow",
-      "url": "https://bigd.big.ac.cn/",
+      "position": "PhD Fellow (CAS-TWAS President’s Fellowship)",
+      "url": "https://big.ac.cn",
       "startDate": "2017-01-01",
       "endDate": "2020-12-31",
-      "summary": "Conducted research on biomarkers of drug-induced toxicity, developed statistical models, and implemented bioinformatics software tools.",
+      "summary": "Developed advanced computational models and tools for toxicogenomics and DNA-based facial recognition.",
       "highlights": [
-        "Developed 'ToxAssay' for biomarker discovery in toxicogenomics.",
-        "Created 'ALVA' for prioritizing compound targets using gene expression data.",
-        "Implemented robust stacking ensemble learning (RSEL) for predicting liver toxicity endpoints."
+        "Developed 'ToxAssay' for biomarker discovery and adverse outcome pathway analysis.",
+        "Created 'ALVA' algorithm for prioritizing compound targets in carcinogenesis.",
+        "Integrated DNA phenotyping with computer vision for facial recognition."
       ]
     },
     {
-      "name": "Freelance Data Scientist",
-      "position": "Data Scientist",
-      "url": "",
-      "startDate": "2021-01-01",
-      "endDate": "2022-12-31",
-      "summary": "Conducted data analysis and modeling for diverse clients in Sydney, Australia.",
-      "highlights": []
-    },
-    {
-      "name": "Secondary Education Quality and Access Enhancement Project",
-      "position": "Additional Class Teacher (Mathematics)",
-      "url": "",
+      "name": "University of Rajshahi",
+      "position": "Research Assistant",
+      "url": "https://www.ru.ac.bd/",
       "startDate": "2015-01-01",
-      "endDate": "2016-12-31",
-      "summary": "Provided mathematics education under a World Bank-supported initiative.",
-      "highlights": []
+      "endDate": "2017-12-31",
+      "summary": "Conducted statistical modeling for omics data analysis in bioinformatics.",
+      "highlights": [
+        "Developed a robust copula-based statistical model for multi-phenotype GWAS.",
+        "Analyzed microbiome data with over-dispersed and zero-inflated models.",
+        "Extended hierarchical naïve Bayes model for three-level data classification."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "Beijing Institute of Genomics, Chinese Academy of Sciences",
+      "institution": "National Genomics Data Center, Beijing Institute of Genomics, CAS & CNCB",
       "location": "Beijing, China",
-      "url": "https://bigd.big.ac.cn/",
+      "url": "https://big.ac.cn",
       "area": "Bioinformatics",
       "studyType": "PhD",
       "startDate": "2017-01-01",
-      "endDate": "2020-12-31",
-      "score": "",
-      "courses": ["Biomarker discovery", "Statistical modeling"]
+      "endDate": "2020-12-31"
     },
     {
       "institution": "University of Rajshahi",
@@ -75,8 +69,7 @@
       "studyType": "MSc",
       "startDate": "2013-01-01",
       "endDate": "2014-12-31",
-      "score": "3.75/4.0",
-      "courses": ["Omics data analysis", "Bioinformatics applications"]
+      "score": "3.75/4"
     },
     {
       "institution": "University of Rajshahi",
@@ -86,110 +79,108 @@
       "studyType": "BSc",
       "startDate": "2008-01-01",
       "endDate": "2013-12-31",
-      "score": "3.401/4.0",
-      "courses": ["Probability and statistics", "Computational modeling"]
+      "score": "3.401/4"
     }
   ],
   "awards": [
     {
-      "title": "CAS-TWAS President’s Fellowship Programme for Doctoral Candidates",
-      "date": "2017-01-01",
-      "awarder": "Chinese Academy of Sciences",
-      "summary": "Awarded for exceptional academic performance and research contributions."
+      "title": "CAS-TWAS President’s Fellowship Programme",
+      "date": "2017",
+      "awarder": "Chinese Academy of Sciences (CAS) & The World Academy of Sciences (TWAS)",
+      "summary": "Awarded for pursuing PhD research in bioinformatics."
     },
     {
-      "title": "Third Place in Poster Presentation Competition",
+      "title": "Third Place in Poster Presentation",
       "date": "2015-08-08",
-      "awarder": "International Conference on Biological Sciences, University of Rajshahi",
-      "summary": "Recognized for a presentation on toxicogenomic biomarkers."
+      "awarder": "University of Rajshahi",
+      "summary": "Received for a presentation at the International Conference on Biological Sciences."
     },
     {
       "title": "First Place in Statistical Computing Competition",
       "date": "2013-02-13",
-      "awarder": "Department of Statistics, University of Rajshahi",
-      "summary": "Won a departmental competition for excellence in computational statistics using C++."
+      "awarder": "University of Rajshahi",
+      "summary": "Won for excellence in statistical computing using C++."
     }
   ],
   "publications": [
     {
       "name": "ToxAssay: A hierarchical model-driven tool for advanced toxicogenomics biomarker discovery",
-      "publisher": "Bioinformatics",
+      "publisher": "Bioinformatics (under review)",
       "releaseDate": "2024",
-      "url": "",
-      "summary": "Developed a software tool for biomarker discovery in toxicogenomics, revealing pathways and mechanisms."
+      "summary": "Developed a tool for identifying biomarkers and uncovering molecular mechanisms in toxicogenomics."
     },
     {
-      "name": "Prioritizing compound targets by perturbed gene expression using ALVA",
-      "publisher": "BMC Bioinformatics",
+      "name": "Prioritizing compound targets by perturbed gene expression using ALVA refines biomarkers in carcinogenesis",
+      "publisher": "BMC Bioinformatics (submitted)",
       "releaseDate": "2024",
-      "url": "",
-      "summary": "Proposed a method for refining biomarkers in carcinogenesis through gene expression analysis."
-    },
-    {
-      "name": "Robust co-clustering for toxicogenomics biomarker discovery",
-      "publisher": "Front. Genet.",
-      "releaseDate": "2018",
-      "url": "https://doi.org/10.3389/fgene.2018.00516",
-      "summary": "Introduced a co-clustering model to identify regulatory doses of chemical compounds."
+      "summary": "Proposed an algorithm for prioritizing targets in carcinogenesis using gene expression data."
     }
   ],
   "skills": [
     {
-      "name": "Statistical Modeling",
-      "level": "Advanced",
-      "keywords": ["Biomarker discovery", "Multi-trait GWAS", "Machine learning"]
-    },
-    {
       "name": "Bioinformatics",
       "level": "Expert",
-      "keywords": ["Toxicogenomics", "Microbiome analysis", "Computational tools"]
+      "keywords": [
+        "Toxicogenomics",
+        "Statistical Modeling",
+        "Machine Learning",
+        "DNA Phenotyping",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "keywords": [
+        "R",
+        "Python",
+        "Perl",
+        "C++",
+        "MATLAB"
+      ]
     }
   ],
   "languages": [
     {
+      "language": "Bengali",
+      "fluency": "Native"
+    },
+    {
       "language": "English",
       "fluency": "Fluent"
-    },
-    {
-      "language": "Bengali",
-      "fluency": "Native speaker"
-    }
-  ],
-  "references": [
-    {
-      "name": "Dr. Fan Liu",
-      "reference": "Full Professor at Naif Arab University for Security Sciences, Riyadh, Saudi Arabia",
-      "email": "fliu@nauss.edu.sa",
-      "phone": "+966 545114868"
-    },
-    {
-      "name": "Dr. Zhang Zhang",
-      "reference": "Professor & Associate Director, National Genomics Data Center, Chinese Academy of Sciences",
-      "email": "zhangzhang@big.ac.cn",
-      "phone": "+86 (10) 8409-7261"
-    },
-    {
-      "name": "Dr. Md. Nurul Haque Mollah",
-      "reference": "Professor, Department of Statistics, University of Rajshahi, Bangladesh",
-      "email": "mollah.stat.bio@ru.ac.bd",
-      "phone": "+880-721-711275"
     }
   ],
   "projects": [
     {
       "name": "ToxAssay",
-      "summary": "A software tool for automating toxicogenomics data analysis and biomarker discovery.",
-      "highlights": ["Revealed adverse outcome pathways for drug-induced toxicity.", "Identified core genes for glutathione depletion."],
-      "startDate": "2017-01-01",
-      "endDate": "2020-12-31",
+      "summary": "Developed a software tool for biomarker discovery and pathway analysis in toxicogenomics.",
+      "highlights": [
+        "Automated data management and post-marker discovery analyses.",
+        "Identified key pathways involved in glutathione depletion."
+      ],
       "url": "https://github.com/ringku09/toxassay"
     },
     {
       "name": "ALVA",
-      "summary": "An algorithm to prioritize compound targets through gene expression perturbations.",
-      "highlights": ["Enhanced safety assessments.", "Contributed to targeted therapies for hepatotoxicity and cancer."],
-      "startDate": "2017-01-01",
-      "endDate": "2020-12-31",
+      "summary": "Designed an algorithm to prioritize compound targets using gene expression data.",
+      "highlights": [
+        "Enhanced safety assessments in carcinogenesis research."
+      ],
       "url": "https://github.com/ringku09/alva"
     }
+  ],
+  "references": [
+    {
+      "name": "Dr. Fan Liu",
+      "reference": "Full Professor at Naif Arab University for Security Sciences, Riyadh, Saudi Arabia. Email: fliu@nauss.edu.sa, Tel: +966 545114868."
+    },
+    {
+      "name": "Dr. Zhang Zhang",
+      "reference": "Professor & Associate Director of National Genomics Data Center, Beijing Institute of Genomics, CAS & CNCB, China. Email: zhangzhang@big.ac.cn, Tel: +86 (10) 8409-7261."
+    },
+    {
+      "name": "Dr. Md. Nurul Haque Mollah",
+      "reference": "Professor, Bioinformatics Lab, University of Rajshahi, Bangladesh. Email: mollah.stat.bio@ru.ac.bd, Tel: +880-721-711275."
+    }
   ]
+}
