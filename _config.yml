@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Md. Masud
-middle_name: Rana
-last_name: [(Ringku)]
+first_name: Md. Masud Rana
+#middle_name:
+last_name: (Ringku)
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -17,6 +17,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎓 # ⚛️the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+
+#disclaimer: This is a personal page and not an official page. Its contents are the sole responsibility of Dr. Md. Masud Rana.
 
 url: https://ringku09.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
