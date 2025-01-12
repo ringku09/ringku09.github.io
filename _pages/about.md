@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Bioinformatics Researcher</a>. | Data Scientis.
 
 profile:
   align: right
@@ -18,9 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-i am Ringku
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [BIG](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a Research and Teaching Associate (Remote) with Prof. [Liu Fan's] (https://fun-gene.github.io) group at Naif Arab University for Security Sciences, Riyadh. My work focuses on cutting-edge research in DNA-based facial recognition and forensic genetics while contributing to the development of advanced course materials. By integrating DNA phenotyping with computer vision, I aim to revolutionize forensic investigations and enhance identification accuracy.
+I earned my PhD in Bioinformatics from the National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy of Sciences (CAS), and the China National Center for Bioinformation (CNCB), under the guidance of Prof. [Zhang Zhang] (https://ngdc.cncb.ac.cn/people/zhang-zhang). My doctoral research specialized in statistical modeling of toxicogenomics data, where I designed computational tools and machine learning algorithms to uncover insights from complex biological datasets.
+Before my doctoral studies, I served as a Research Assistant at the Bioinformatics Laboratory, Department of Statistics, University of Rajshahi, Bangladesh. I also completed my MSc and BSc in Statistics at Rajshahi University, equipping me with a strong foundation in statistical modeling, multi-omics data analysis, and bioinformatics, which remain integral to my research pursuits.
