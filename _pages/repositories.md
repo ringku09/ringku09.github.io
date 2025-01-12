@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: code
 description: I am dedicated to open-sourcing my research to ensure reproducibility.
 nav: true
 nav_order: 4
