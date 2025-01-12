@@ -23,3 +23,5 @@ I am a Research and Teaching Associate (Remote) with Prof. [Liu Fan’s](https:/
 I earned my PhD in Bioinformatics from the National Genomics Data Center, [Beijing Institute of Genomics](http://english.big.cas.cn/), [CAS](https://english.cas.cn/), under Prof. [Zhang Zhang](https://ngdc.cncb.ac.cn/people/zhang-zhang). My research centered on statistical modeling of toxicogenomics data, developing computational tools and machine learning algorithms for complex biological datasets.
 
 Previously, I worked as a Research Assistant at the Bioinformatics Laboratory, Department of Statistics, [University of Rajshahi](https://www.ru.ac.bd/), Bangladesh, where I also completed my MSc and BSc in Statistics.
+
+During my leisure time, I enjoy programming, delving into advanced AI models, watching movies, and cricket matches. For further details about my career, experiences, and extracurricular activities, visit my [CV](https://ringku09.github.io/cv/).
